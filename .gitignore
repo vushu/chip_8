@@ -1,0 +1,4 @@
+build/
+wasm/
+compile_commands.json
+.cache/
